@@ -96,7 +96,7 @@ function redBalloon() {
   red.velocityX = 3;
   red.lifetime = 150;
   red.scale = 0.1;
-  redB.add(red);
+  
 }
 
  /*function redBalloon() {
